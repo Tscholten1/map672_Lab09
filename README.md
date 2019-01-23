@@ -1,5 +1,5 @@
-# map672_Lab09
-Lab 9 interactive web map
+# MAP672 Lab 09
+Interactive map that shows the location of U.S. electric power generation by fuel source. Key interactive features include pop-up boxes with details on the point location, check boxes to select map layers.
 
 <html>
 
